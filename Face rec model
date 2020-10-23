@@ -1,4 +1,6 @@
-Working Face recognition model
+# Working Face recognition model
+# this is not full modal bro
+# it is better that you must include cascades files 
 
 import numpy as np
 import cv2
